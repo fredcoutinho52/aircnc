@@ -8,4 +8,5 @@ Aplicação desenvolvida seguindo o projeto da Semana Omnistack 9.0 da Rocketsea
 * [Yarn](https://yarnpkg.com/)
 * [ReactJS](https://reactjs.org/)
 * [React Native](https://facebook.github.io/react-native/)
+* [Mongo DB](https://www.mongodb.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
