@@ -4,6 +4,7 @@ Aplicação desenvolvida seguindo o projeto da Semana Omnistack 9.0 da Rocketsea
 
 ## Ferramentas utilizadas
 
+* [Expo](https://expo.io/)
 * [Node.js](https://nodejs.org/en/)
 * [Yarn](https://yarnpkg.com/)
 * [ReactJS](https://reactjs.org/)
